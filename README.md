@@ -8,6 +8,7 @@ Skvělé rozšíření pro prohlížeče, které automaticky opravuje obecnou č
 ## Instalace
 
 [Chrome Web Store](https://www.youtube.com/watch?v=xvFZjo5PgG0) (ještě to zde musím nahrát)
+
 [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/odpra%C5%BEova%C4%8D/omfbfipkpgjmkiohfnhdbgknfdbmhdcm)
 
 ## Co to dělá?
@@ -26,7 +27,7 @@ Veškeré nahrazování probíhá bez použití umělé inteligence.
 - **Pohodlné ovládání** – Vyskakovací panel s možností zapnutí/vypnutí
 - **Světlý i tmavý režim** – Přepínejte dle vašich preferencí
 - **Dbá na soukromí** – Nesbírá žádné osobní údaje ani historii prohlížení
-- **Open-source** – Klidně se podívejte, jak celý Odpražovač funguje, a klidně i navrhuje úpravy a nápady ke zlepšení na mém [Githubu](https://github.com/JirkaUlbricht/Odprazovac)
+- **Open-source** – Kód Odpražovače je plně transparentní, klidně navrhujte úpravy a nápady ke zlepšení na mém [Githubu](https://github.com/JirkaUlbricht/Odprazovac)
 
 ## Použití
 
@@ -34,7 +35,7 @@ Veškeré nahrazování probíhá bez použití umělé inteligence.
 2. Užijte si vaše webové stránky bez obecné češtiny 
 
 > [!NOTE]
-> Rozšíření ukládá pouze anonymní souhrnné údaje o počtu oprav. Žádná osobní data ani historie prohlížení nejsou ukládány.
+> Rozšíření ukládá pouze anonymní souhrnné údaje o počtu oprav. **Žádná osobní data** ani historie prohlížení nejsou ukládány.
 
 ## Soukromí
 
